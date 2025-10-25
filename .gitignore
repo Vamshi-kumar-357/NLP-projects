@@ -1,0 +1,5 @@
+gen_ai_env/*
+
+__pycache__/
+
+native_language_identification/data/*
